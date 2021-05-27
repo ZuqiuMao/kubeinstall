@@ -19,7 +19,7 @@ sh k8s_install_master.sh
 
 Node
 ```
-k8s_install_worker.sh
+sh k8s_install_worker.sh
 ```
 
 Join
