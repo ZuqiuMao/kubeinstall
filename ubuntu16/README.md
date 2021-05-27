@@ -2,7 +2,7 @@
 
 ## One command install 
 
-prepare ubuntu：20.04 firstly
+prepare ubuntu：16.04 firstly
 
 #### master
 
