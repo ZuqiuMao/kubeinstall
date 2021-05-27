@@ -1,4 +1,21 @@
 # ubuntu 16
 
-coming soon 
+## One command install 
+
+prepare ubuntu：20.04 firstly
+
+#### master
+
+run command:
+```
+k8s_master_install_ubuntu.sh
+```
+
+#### Node
+run command:
+```
+k8s_node_join_ubuntu.sh
+```
+
+thanks lishengdong for ubuntu 16 version
 

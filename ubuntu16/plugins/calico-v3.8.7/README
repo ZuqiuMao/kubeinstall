@@ -1,0 +1,17 @@
+This directory contains a complete release of Calico v3.8.7
+Documentation for this release can be found at http://docs.projectcalico.org/v3.8
+
+Docker images (under 'images'). Load them with 'docker load'
+* The calico/node docker image  (version )
+* The calico/typha docker image  (version v3.8.7)
+* The calico/cni docker image  (version )
+* The calico/kube-controllers docker image (version v3.8.7)
+* The calico/dikastes docker image (version v3.8.7)
+* The calico/pod2daemon-flexvol docker image (version v3.8.7)
+
+Binaries (for amd64) (under 'bin')
+* The calicoctl binary (for Linux) (version v3.8.7)
+* The calicoctl-windows-amd64.exe binary (for Windows) (version v3.8.7)
+* The calicoctl-darwin-amd64 binary (for Mac) (version v3.8.7)
+
+Kubernetes manifests (under 'k8s-manifests directory')
