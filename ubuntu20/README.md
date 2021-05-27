@@ -28,3 +28,6 @@ sudo kubeadm join ip:port --token xxx    --discovery-token-ca-cert-hash sha256:x
 ```
 
 xxx is from master install result
+
+## Reference
+- https://github.com/kubernetes/kubeadm
