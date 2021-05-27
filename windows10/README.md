@@ -18,3 +18,4 @@ minikube start
 ## Reference
 - https://developer.aliyun.com/article/221687
 - https://github.com/kubernetes/minikube
+- https://minikube.sigs.k8s.io/docs/start/
