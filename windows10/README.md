@@ -1,7 +1,7 @@
 # minikube for windows
 
 
-minikube for master only
+minikube for windows only
 
 
 
